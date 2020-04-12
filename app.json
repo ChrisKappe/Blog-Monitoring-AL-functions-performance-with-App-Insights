@@ -1,0 +1,44 @@
+{
+  "id": "1d2b96fc-643b-45c5-bfd8-01a1750c0134",
+  "name": "Drink Beer App",
+  "publisher": "Dmitry Katson",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "63ca2fa4-4f03-4f2b-a480-172fef340d3f",
+      "publisher": "Microsoft",
+      "name": "System Application",
+      "version": "16.0.0.0"
+    },
+    {
+      "id": "437dbf0e-84ff-417a-965d-ed2bb9650972",
+      "publisher": "Microsoft",
+      "name": "Base Application",
+      "version": "16.0.0.0"
+    },
+    {
+      "id": "a6a6394c-3914-420b-b8f3-280bb300802e",
+      "publisher": "Dmitry Katson",
+      "name": "Application Insights AL SDK",
+      "version": "1.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "16.0.0.0",
+  "idRanges": [
+    {
+      "from": 50200,
+      "to": 50249
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://DrinkBeer.com/help/",
+  "showMyCode": true,
+  "runtime": "5.0"
+}
